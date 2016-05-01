@@ -1,0 +1,26 @@
+{
+  "name": "a-slice",
+  "version": "1.0.0",
+  "description": "Javascript native array slice alternative",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/a-slice.git"
+  },
+  "keywords": ["array", "slice", "cut", "native"],
+  "author": "Vikram Jadhav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikramcse/a-slice/issues"
+  },
+  "homepage": "https://github.com/vikramcse/a-slice#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.9.0",
+    "eslint-config-defaults": "^9.0.0",
+    "mocha": "^2.4.5"
+  }
+}
